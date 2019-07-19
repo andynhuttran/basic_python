@@ -1,2 +1,2 @@
 # basic_python
-basic python lessons from AIVietnam
+Collections basic python code from AIVietnam course.
