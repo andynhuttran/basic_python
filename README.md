@@ -1,4 +1,4 @@
-# basic_python
+# Basic Python
 
 1. Some of functions in Math lib [here](https://github.com/colenhuttran/basic_python/blob/master/mathematic_functions%20.ipynb)
 
